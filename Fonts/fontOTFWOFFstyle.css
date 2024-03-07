@@ -21,11 +21,11 @@ body
 }
 @font-face {
 font-family:myRistretto;
-src: url(Roboto-Regular.ttf);
+src: url(ristretto.woff);
 }
 @font-face {
 font-family: myMayestica;
-src: url(Mickeys\ Merry\ Christmas.ttf);
+src: url(Mayestica.otf);
 }
 body
 {
