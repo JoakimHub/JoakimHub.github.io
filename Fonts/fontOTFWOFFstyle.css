@@ -13,11 +13,11 @@ body
 }
 .first
 {
-   font-family: myRistretto;
+   font-family: myRistretto, sans-serif;
 }
 .second
 {
-    font-family: myMayestica;
+    font-family: myMayestica, sans-serif;
 }
 @font-face {
 font-family:myRistretto;
